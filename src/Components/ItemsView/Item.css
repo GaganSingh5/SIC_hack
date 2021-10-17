@@ -1,0 +1,11 @@
+.card--box {
+  width: 18rem;
+  overflow: hidden;
+}
+
+.card--image {
+    width:  18rem;
+    height: 18rem;
+    object-fit: cover;
+}
+
